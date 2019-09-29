@@ -5,7 +5,7 @@ Tool untuk kirim sms gratis menggunakan termux
 ```
 $ pkg install git python
 $ pip install requests
-$ git clone https://github.com/N74NK/sms
+$ git clone https://github.com/anonymous/sms
 $ cd sms
 $ python sms.py
 ```

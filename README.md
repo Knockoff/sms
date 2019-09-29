@@ -1,5 +1,5 @@
 # SMS GRATIS
-Tool untuk kirim sms gratis menggunakan termux
+Anonym sms send
 
 ### INSTALASI
 ```
@@ -10,4 +10,4 @@ $ cd sms
 $ python sms.py
 ```
 
-Thanks to Xractz - IndoSec
+Thanks to Anonymous
